@@ -131,6 +131,3 @@ Curso: *CS50’s Introduction to Artificial Intelligence with Python*
 Año: 2026
 
 ---
-
-Si quieres, puedo añadir una sección de **mejoras futuras**, **gráficos**, o **explicación técnica más profunda**.  
-Solo dime si deseas **versión extendida** o **versión corta**.
